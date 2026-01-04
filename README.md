@@ -5,7 +5,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--purple.svg)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An intelligent network scanning tool that combines traditional port scanning with **AI-powered security analysis**. Built for hackathons, network administrators, and security enthusiasts who want to understand their network without needing advanced networking knowledge.
+An intelligent network scanning tool that combines traditional port scanning with **AI-powered security analysis**. Built for network administrators, security enthusiasts, and curious users who want to understand their network without needing advanced networking knowledge.
 
 ## ✨ Features
 
@@ -142,7 +142,6 @@ PORT_TIMEOUT = 1  # seconds
 - **Small Businesses** - Basic network inventory
 - **Students** - Learn about networking and security
 - **IT Professionals** - Quick network assessment
-- **Hackathons** - Demo-ready in 3 hours
 
 ## ⚠️ Important Notes
 
@@ -185,7 +184,3 @@ MIT License - feel free to use this project for any purpose.
 ## 📧 Contact
 
 For questions or feedback, please open an issue on GitHub.
-
----
-
-**Built with ❤️ for [Hackathon Name]**
